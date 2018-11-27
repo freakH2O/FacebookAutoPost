@@ -1,0 +1,5 @@
+1.python 3.7+ installed on pc
+2.environmental variables setup
+3.Selenium Webdriver(install by changing cmd directory to project folder and typing "pip install selenium" )
+4.Chrome Browser installed in pc
+5.Chrome driver (Can be downloaded with the project)
