@@ -1,1 +1,1 @@
-Standard for selenium adn python web automation
+Standard for selenium and python web automation
