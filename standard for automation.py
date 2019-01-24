@@ -13,7 +13,7 @@ options = Options()
 options.add_argument("start-maximized")
 options.add_argument("disable-infobars")
 options.add_argument("--disable-notifications")
-
+options.add_argument('user-data-dir= selenium')
 browser = webdriver.Chrome(chrome_options=options, executable_path=r'chromedriver.exe')
 
 
